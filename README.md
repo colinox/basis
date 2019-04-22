@@ -1,2 +1,2 @@
-# basis
-ES常用事件方法
+# usage-basis
+ES6常用事件方法
